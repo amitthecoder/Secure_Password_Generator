@@ -20,8 +20,16 @@
 
 </div>
 
+## Splash Screen
+
 <img style="width: 45%; height: 100%; padding-right: 10px" src="https://raw.githubusercontent.com/amitthecoder/Secure_Password_Generator/main/images/Screenshot_2023-03-20-19-12-23-573_com.amitmusician.secure.jpg">
+
+## Home Screen
+
 <img style="width: 45%; height: 100%; padding-right: 10px" src="https://raw.githubusercontent.com/amitthecoder/Secure_Password_Generator/main/images/Screenshot_2023-03-20-19-12-15-777_com.amitmusician.secure.jpg">
+
+## Password Screen
+
 <img style="width: 45%; height: 100%; padding-right: 10px" src="https://raw.githubusercontent.com/amitthecoder/Secure_Password_Generator/main/images/Screenshot_2023-03-20-19-12-19-620_com.amitmusician.secure.jpg">
 
 

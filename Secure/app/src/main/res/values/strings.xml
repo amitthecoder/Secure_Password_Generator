@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secure</string>
+    <string name="generate">Generate</string>
+    <string name="copyright_amitmusician">copyright © amitmusician</string>
+    <string name="password">Password</string>
+    <string name="copy">copy</string>
+    <string name="choose_length">Choose Length</string>
+    <string name="generate_secure_password">Generate Secure Password</string>
+</resources>

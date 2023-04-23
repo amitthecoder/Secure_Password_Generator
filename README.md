@@ -36,7 +36,7 @@
 
 ## About
 
-This is password generator app. This app has been built with the help of JAVA and XML. LottieFiles animations has been used in this app.
+This is a password generator app. This app has been built with the help of JAVA and XML. LottieFiles animations has been used in this app.
 
 
 ## Building - Android Studio
